@@ -1,5 +1,7 @@
 # Human Image Gender Classifier
 
+**Status (2026-09-17):** research code released with Expressive Body Capture (SMPL-X, CVPR 2019); not under active development. Issues are read; fixes are not promised. The pretrained weights could not be located on 2026-09-17: the SMPL-X downloads page (https://smpl-x.is.tue.mpg.de/download.php) requires a login, so whether the Homogenus weights are still offered there could not be verified from outside. The code targets TensorFlow 1.15 and does not run on TensorFlow 2.
+
 ![alt text](samples/github-demo.png "Homogenus applied on in-the-wild images of the LSP dataset")
 
 This is the official repository of the Human Gender Classifier (Homogenus) used in the paper 
